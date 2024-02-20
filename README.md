@@ -12,10 +12,6 @@
 
 <div align="center">
 
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## 💻 My Tech Stack:
 
 [![Javascript, TypeScript, ReactJS, NextJS, Angular, HTML, CSS, Tailwind, D3](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,tailwind,d3)](https://skillicons.dev)
