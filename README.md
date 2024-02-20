@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**neilkrichi/neilkrichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Neil 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/neilkrichi/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:neilkrichi@gmail.com?subject=Hello%20Neil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 🔭 I’m currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software. 
+- ⚡ Fun fact: I'm a marathon runner (3:06) and an amateur DJ. 
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Javascript, TypeScript, ReactJS, NextJS, Angular, HTML, CSS, Tailwind, D3](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,tailwind,d3)](https://skillicons.dev)
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nkrichi&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkrichi&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
