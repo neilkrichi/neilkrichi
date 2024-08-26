@@ -2,18 +2,26 @@
 
 ### Hi there, I'm Neil
 
-</div>
-
 <p>👨🏻‍💻 Frontend leaning Full-Stack developer.</p>
-<p>🔭 Currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software. </p>
+🔭 Currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software.
 <p>⚡ Fun fact: I'm a marathon runner (3:06) and an amateur DJ. </p>
+
+</div>
 
 <div align="center">
 
 ## 💻 My Tech Stack:
 
-[![Javascript, TypeScript, ReactJS, NextJS, Angular, HTML, CSS, Tailwind, D3](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,tailwind,d3)](https://skillicons.dev)
+### Frontend
+[![Javascript, TypeScript, ReactJS, NextJS, Angular, Tailwind, Cypress](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind,cypress)](https://skillicons.dev)
 
+### Backend
+
+[![Java, Node, Python, Postgres, Supabase](https://skillicons.dev/icons?i=java,nodejs,py,postgres,supabase)](https://skillicons.dev)
+
+### Ops
+
+[![AWS, GCP, Docker](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
