@@ -4,9 +4,9 @@
 
 </div>
 
-👨🏻‍💻 Frontend leaning Full-Stack developer. 
-🔭 Currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software. 
-⚡ Fun fact: I'm a marathon runner (3:06) and an amateur DJ. 
+<p>👨🏻‍💻 Frontend leaning Full-Stack developer.</p>
+<p>🔭 Currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software. </p>
+<p>⚡ Fun fact: I'm a marathon runner (3:06) and an amateur DJ. </p>
 
 <div align="center">
 
@@ -21,11 +21,9 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilkrichi&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-</div>
 
 ## 📧 Get in touch:
 
-<div align="center">
     
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/neilkrichi/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:neilkrichi@gmail.com?subject=Hello%20Neil)
