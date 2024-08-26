@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Neil 👋
 
-</div>
 
 - 🔭 I’m currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software. 
 - ⚡ Fun fact: I'm a marathon runner (3:06) and an amateur DJ. 
@@ -24,3 +23,5 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/neilkrichi/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:neilkrichi@gmail.com?subject=Hello%20Neil)
+    
+</div>
