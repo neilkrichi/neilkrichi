@@ -11,18 +11,12 @@
 
 <div align="center">
 
-## 💻 My Tech Stack:
+### 💻 Favourite things I code with
 
 ### Frontend
-[![Javascript, TypeScript, ReactJS, NextJS, Angular, Tailwind, Cypress](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind,cypress)](https://skillicons.dev)
+[![Javascript, TypeScript, ReactJS, NextJS, Tailwind, Cypress](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,cypress)](https://skillicons.dev)
 
-### Backend
-
-[![Java, Node, Python, Postgres, Supabase](https://skillicons.dev/icons?i=java,nodejs,py,postgres,supabase)](https://skillicons.dev)
-
-### Ops
-
-[![AWS, GCP, Docker](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
+[![Java, Node, Python, Postgres, AWS, GCP, Docker](https://skillicons.dev/icons?i=java,nodejs,py,postgres,aws,gcp,docker)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
