@@ -1,33 +1,29 @@
-<div align="center">
+<div>
 
-### Hi there, I'm Neil
+## Hi there, I'm Neil
 
 </div>
 
 
-👨🏻‍💻 Frontend leaning Full-Stack developer.
-🔭 I'm currently working at [Central 1](https://www.linkedin.com/company/central1/) where we empower Canadian Credit Unions and FinTechs by providing cutting edge, scalable financial software.
+🔭 I'm a Frontend/Full-stack software developer working at [Central 1](https://www.linkedin.com/company/central1/), providing scalable banking software and payment infrastructure to Canadian credit unions.
 ⚡ Fun fact: I'm a marathon runner (3:06) and an amateur DJ.
 
-<div align="center">
+<div>
 
 ### 💻 Favourite things I code with
 
-[![Javascript, TypeScript, ReactJS, NextJS, Tailwind, Cypress](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,cypress)](https://skillicons.dev)
+[![Javascript, TypeScript, ReactJS, NextJS, Tailwind, Cypress](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,cypress)](https://skillicons.dev) [![Node, Python, Postgres, AWS](https://skillicons.dev/icons?i=nodejs,py,postgres,aws)](https://skillicons.dev)
 
-[![Java, Node, Python, Postgres, AWS, GCP, Docker](https://skillicons.dev/icons?i=java,nodejs,py,postgres,aws,gcp,docker)](https://skillicons.dev)
-
-## 🏆 My Stats:
+### 🏆 My Stats:
 
 <p>
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilkrichi&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 
-## 📧 Get in touch:
-
+### 📧 Get in touch:
     
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/neilkrichi/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:neilkrichi@gmail.com?subject=Hello%20Neil)
+- [neilkrichi.com](https://neilkrichi.com)
+- [LinkedIn](https://www.linkedin.com/in/neilkrichi/)
     
 </div>
