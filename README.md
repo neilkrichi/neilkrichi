@@ -13,7 +13,6 @@
 
 ### 💻 Favourite things I code with
 
-### Frontend
 [![Javascript, TypeScript, ReactJS, NextJS, Tailwind, Cypress](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,cypress)](https://skillicons.dev)
 
 [![Java, Node, Python, Postgres, AWS, GCP, Docker](https://skillicons.dev/icons?i=java,nodejs,py,postgres,aws,gcp,docker)](https://skillicons.dev)
